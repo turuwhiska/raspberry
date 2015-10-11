@@ -1,2 +1,2 @@
 # raspberry
-raspberry en español-raspberry im deutsch
+raspberry en español-raspberry auf deutsch
